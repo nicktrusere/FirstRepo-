@@ -8,3 +8,5 @@ created
 - created file : touch master.txt  
 - opened it with notepad 
 => notepad master.txt
+
+we adding some more changes
