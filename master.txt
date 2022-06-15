@@ -1,0 +1,10 @@
+This is my other file - practice file 
+created
+
+- a repository
+- initialized repository git init 
+-with Master default branch 
+
+- created file : touch master.txt  
+- opened it with notepad 
+=> notepad master.txt
